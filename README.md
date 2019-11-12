@@ -1,6 +1,7 @@
 # Ecommerce
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.4.
+![GitHub Logo](https://github.com/AbiralSijaria/ecomm-development/blob/master/shop%20biller.png)
 
 ## Development server
 
